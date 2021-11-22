@@ -1,0 +1,62 @@
+{
+ "id": "46133780-3f76-4311-991f-b128efa886d7",
+ "brand": "Lenovo",
+ "name": "Thinkpad P53",
+ "cpu": {
+  "brand": "Intel",
+  "name": "Core i3",
+  "number_cores": 4,
+  "number_threads": 6,
+  "min_ghz": 2.5098739980689726,
+  "max_ghz": 4.869593214010843
+ },
+ "ram": {
+  "value": "38",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "NVIDIA",
+   "name": "GTX 1070",
+   "min_ghz": -0.34581723875256043,
+   "max_ghz": 0.3064524154846383,
+   "memory": {
+    "value": "3",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SDD",
+   "memory": {
+    "value": "896",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "2",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 13.583525,
+  "resolution": {
+   "width": 4734,
+   "height": 2663
+  },
+  "panel": "IPS",
+  "multitouch": true
+ },
+ "keyboard": {
+  "layout": "QWERTZ",
+  "backlit": true
+ },
+ "weight_kg": 1.9496509316002901,
+ "price_usd": 1560.529886560078,
+ "release_year": 2016,
+ "updated_at": "2021-09-25T17:54:37.226311Z"
+}
